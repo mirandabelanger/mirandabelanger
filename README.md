@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mirandabelanger
 - 👀 I’m interested in Fintech, Applicable AI, and Identity Management
-- 🌱 I’m currently learning how to manage identity-realted systems
+- 🌱 I’m currently learning how to manage identity-related systems
 - 💞️ I’m looking to collaborate on product management projects
 - 📫 How to reach me miranda.belanger@gmail.com
 - 😄 Pronouns: she/her
